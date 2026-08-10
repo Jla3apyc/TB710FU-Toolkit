@@ -13,7 +13,7 @@ This toolkit consists of interconnected projects. Choose the one that matches yo
 
 ### 🧹 1. [TB710FU bloatware uninstaller](TB710FU-bloatware-uninstaller.md)
 A lightweight, portable script for disabling OTA updates and removing pre-installed bloatware.
-* **Purpose:** Automatically disables non-functional OTA updates and simplifies the removal of pre-installed bloatware on the Lenovo Xiaoxin Pad Pro GT (TB710FU) via ADB.
+* **Purpose:** Automatically disables non-functional OTA updates and simplifies the removal of pre-installed bloatware on the Lenovo Xiaoxin Pad Pro GT (TB710FU) via ADB. Optimizes Google services on Chinese firmware.
 * **Features:** Uses safe uninstallation via `pm uninstall --user 0` with the ability to fully restore apps. Easily customizable by editing the package list in the `.bat` file.
 
 ---
