@@ -3,10 +3,6 @@
 
 A lightweight, portable script for disabling OTA updates, removing pre-installed bloatware, and fixing regional restrictions on **Lenovo Xiaoxin Pad Pro GT / Yoga Tab 11.1 (TB710FU firmware)**.
 
----
-[Link to the release](https://github.com/Jla3apyc/TB710FU-Toolkit/releases/tag/TB710FU-bloatware-uninstaller)
----
-
 > ⚠️ **DISCLAIMER: USE AT YOUR OWN RISK!**  
 > This tool removes system apps using `pm uninstall --user 0`. The apps are removed **only for the current user** and can be restored via ADB. However, removing certain packages may affect system stability or OTA updates. **Always review the list of packages before running.**
 
@@ -40,7 +36,6 @@ TB710FU_bloatware_uninstaller/
 ├── 📄 TB710FU_CN_bloatware_uninstaller.bat  # For Chinese firmware (bilingual EN/RU)
 ├── 📄 TB710FU_EN_bloatware_uninstaller.bat  # For Global firmware (English)
 ├── 📄 TB710FU_RU_bloatware_uninstaller.bat  # For Global firmware (Russian)
-├── 📄 README.md                             # This documentation
 └── 📁 adb/                                  # ⬇️ Place Platform Tools here
     ├── adb.exe
     ├── AdbWinApi.dll
@@ -178,7 +173,7 @@ The scripts remove the following bloatware. You can **edit the `.bat` files** to
 
 ## 🙏 Credits
 
-* Inspired by the **ADB AppControl** project and community research on **4PDA**.
+* Inspired by the **ADB AppControl, QFIL, Software Fix (LMSA), LTBox** projects and community research on **4PDA**.
 * Uses official **Android Platform Tools** from Google.
 
 > *This tool is provided for educational and informational purposes only. The author is not responsible for any direct or indirect damage caused to your device.*
