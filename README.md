@@ -19,7 +19,7 @@ A lightweight, portable script for disabling OTA updates and removing pre-instal
 ---
 
 ## 🙏 Acknowledgments
-* The logic is inspired by projects such as **ADB AppControl**, **LPBox** and research from the **4PDA** community.
-* Thanks to all the enthusiasts who share knowledge about the Snapdragon                            platform.
+* The logic is inspired by projects such as **ADB AppControl**, **LTBox** and research from the **4PDA** community.
+* Thanks to all the enthusiasts who share knowledge about the Snapdragon platform.
 
 > *This project is provided for informational and educational purposes only. The author is not responsible for any direct or indirect damage caused to your device.*
