@@ -12,7 +12,7 @@ A lightweight, portable script for disabling OTA updates, removing pre-installed
 
 - 🚀 **Zero Installation:** Just unpack the utility and run the appropriate `.bat` file for your firmware region.
 - 🌐 **Region-Specific Scripts:** Dedicated scripts for Chinese (CN) and Global (EN/RU) firmware versions.
-- 🇷🇺 **RU Locale & Google Fix (CN Script):** The CN script automatically sets the Russian locale and whitelists Google apps for background activity.
+- 🌎 **Google Services & RU Locale Fix (CN Script):** The CN script automatically sets the Russian locale and whitelists Google apps for background activity.
 - 🛡️ **Safe Removal:** Uses `pm uninstall --user 0` — apps can be restored later.
 - 🔍 **Device Verification:** Checks ADB connection before proceeding.
 - 📖 **Built-in Help:** Step-by-step guide for enabling USB Debugging if the device is not detected.
