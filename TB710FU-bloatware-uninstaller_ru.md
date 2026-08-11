@@ -67,7 +67,7 @@ TB710FU_bloatware_uninstaller/
 
 ## 📦 Удаляемые пакеты по умолчанию
 
-Скрипты удаляют следующий bloatware. Вы можете **отредактировать `.bat` файлы**, чтобы настроить списки.
+Скрипты удаляют следующий мусорный софт. Вы можете **отредактировать `.bat` файлы**, чтобы настроить списки.
 
 ### 🇨🇳 Для китайской (CN) прошивки
 *Обрабатывается `TB710FU_CN_bloatware_uninstaller.bat`. Также применяет RU-локаль и исправляет фоновые ограничения Google.*
@@ -103,7 +103,7 @@ TB710FU_bloatware_uninstaller/
 #### 🟢 Игры и развлечения (CN)
 | Пакет | Описание |
 |-------|----------|
-| `com.cybercat.acbridge` | Игра AC Bridge |
+| `com.cybercat.acbridge` | AC Bridge (устанавливается ADB App Control)|
 | `com.happyelements.AndroidAnimal` | Happy Elements |
 | `com.lenovo.minigamelauncher` | Мини-игры Lenovo |
 
