@@ -103,7 +103,7 @@ The scripts remove the following bloatware. You can **edit the `.bat` files** to
 #### 🟢 Games & Entertainment (CN)
 | Package | Description |
 |---------|-------------|
-| `com.cybercat.acbridge` | AC Bridge game |
+| `com.cybercat.acbridge` | AC Bridge (installed by ADB App Control) |
 | `com.happyelements.AndroidAnimal` | Happy Elements |
 | `com.lenovo.minigamelauncher` | Lenovo Mini Games |
 
