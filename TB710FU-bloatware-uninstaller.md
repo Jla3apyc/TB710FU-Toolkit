@@ -1,5 +1,5 @@
 [🇷🇺 Читать на русском](TB710FU-bloatware-uninstaller_ru.md)
-# 🧹 TB710FU bloatware uninstaller, OTA disabler & locale fixer
+# 🧹 TB710FU bloatware uninstaller
 
 A lightweight, portable script for disabling OTA updates, removing pre-installed bloatware, and fixing regional restrictions on **Lenovo Xiaoxin Pad Pro GT / Yoga Tab 11.1 (TB710FU firmware)**.
 
