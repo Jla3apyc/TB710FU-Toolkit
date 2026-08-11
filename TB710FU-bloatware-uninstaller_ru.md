@@ -128,13 +128,13 @@ TB710FU_bloatware_uninstaller/
 #### 🟠 Приложения Lenovo / ZUI
 | Пакет | Описание |
 |-------|----------|
-| `com.lenovo.appdaily` | Lenovo Daily (лента новостей) |
+| `com.lenovo.appdaily` | Lenovo Find Apps |
 | `com.lenovo.ota` | OTA-обновления Lenovo |
-| `com.lenovo.tbengine` | Lenovo TB Engine |
-| `com.tblenovo.center` | Lenovo Center |
-| `com.tblenovo.lenovowhatsnew` | Lenovo Что нового |
-| `com.zui.adobeexpressapp` | ZUI Adobe Express |
-| `com.zui.pengen` | ZUI Pengen |
+| `com.lenovo.tbengine` | Обновления Lenovo |
+| `com.tblenovo.center` | Lenovo Vantage |
+| `com.tblenovo.lenovowhatsnew` | Рекомендации |
+| `com.zui.adobeexpressapp` | Adobe Express |
+| `com.zui.pengen` | Creation Tools |
 
 #### 🟡 Сторонние и региональные приложения
 | Пакет | Описание |
@@ -162,8 +162,7 @@ TB710FU_bloatware_uninstaller/
 
 | Проблема | Решение |
 |----------|---------|
-| `ОШИБКА: adb.exe не найден!` | Скачайте Platform Tools и поместите `adb.exe` + DLL в папку `adb`. |
-| Устройство не отображается в ADB | Включите отладку по USB на планшете. Проверьте встроенную справку (нажмите `Н` в запросе). |
+| Устройство не отображается в ADB | Включите отладку по USB на планшете. Проверьте встроенную справку. |
 | `unauthorized` в ADB | Разблокируйте экран планшета и нажмите "Разрешить отладку USB" в появившемся окне. |
 | Приложение возвращается после перезагрузки | Этого не должно происходить с `--user 0`. Если происходит — приложение защищено системой. |
 | `Failure [DELETE_FAILED_DEVICE_POLICY_MANAGER]` | Приложение защищено политикой устройства. Без root не удалить. |
