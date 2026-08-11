@@ -103,14 +103,13 @@ The scripts remove the following bloatware. You can **edit the `.bat` files** to
 #### 🟢 Games & Entertainment (CN)
 | Package | Description |
 |---------|-------------|
-| `com.cybercat.acbridge` | AC Bridge (installed by ADB App Control) |
 | `com.happyelements.AndroidAnimal` | Happy Elements |
 | `com.lenovo.minigamelauncher` | Lenovo Mini Games |
 
 ---
 
 ### 🌍 For Global (EN/RU) Firmware
-*Targeted by `TB710FU_EN_bloatware_uninstaller.bat` and `TB710FU_RU_bloatware_uninstaller.bat`.*
+*`TB710FU_EN_bloatware_uninstaller.bat` and `TB710FU_RU_bloatware_uninstaller.bat` are used*
 
 #### 🔵 Google Apps
 | Package | Description |
