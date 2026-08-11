@@ -4,7 +4,7 @@
 A lightweight, portable script for disabling OTA updates, removing pre-installed bloatware, and fixing regional restrictions on **Lenovo Xiaoxin Pad Pro GT / Yoga Tab 11.1 (TB710FU firmware)**.
 
 > ⚠️ **DISCLAIMER: USE AT YOUR OWN RISK!**  
-> This tool removes system apps using `pm uninstall --user 0`. The apps are removed **only for the current user** and can be restored via ADB. However, removing certain packages may affect system stability. **Always review the list of packages before running.**
+> This tool removes system apps using `pm uninstall --user 0`. The apps are removed **only for the current user** and can be restored via ADB. However, removing certain packages may affect system stability. **Always review the list of packages before running the script.**
 
 ---
 
@@ -16,14 +16,14 @@ A lightweight, portable script for disabling OTA updates, removing pre-installed
 - 🛡️ **Safe Removal:** Uses `pm uninstall --user 0` — apps can be restored later.
 - 🔍 **Device Verification:** Checks ADB connection before proceeding.
 - 📖 **Built-in Help:** Step-by-step guide for enabling USB Debugging if the device is not detected.
-- 🎯 **Targeted:** Specifically tuned for Lenovo Xiaoxin Pad Pro GT / Yoga Tab 11.1 bloatware.
+- 🎯 **Targeted:** Specifically tuned for Lenovo Xiaoxin Pad Pro GT (TB710_ZUXOS_1.5.04.470)/ Yoga Tab 11.1 (TB710FU_ZUI_17.5.04.070).
 
 ---
 
 ## 📋 Prerequisites
 
 1. **Windows 10 / 11**
-2. **ADB drivers** installed on your PC (MediaTek VCOM or Google USB Driver)
+2. **ADB drivers** installed on your PC
 3. **Platform Tools (adb.exe)** — already in the `adb` subfolder
 4. **USB Debugging enabled** on the tablet (see instructions below)
 
@@ -46,8 +46,8 @@ TB710FU_bloatware_uninstaller/
 
 ### Step 1: Enable USB Debugging on Your Tablet
 
-1. Open **Settings → About tablet**
-2. Tap **Software version** (or Android version) 7 times until "You are now a developer!" appears
+1. Open **Settings → About tablet → Android version**
+2. Tap **Software version** 7 times until "You are now a developer!" appears
 3. Return to **Settings → System → Developer options**
 4. Enable **USB Debugging**
 5. Connect the tablet to your PC via USB
