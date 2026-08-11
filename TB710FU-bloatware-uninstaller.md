@@ -10,10 +10,6 @@ A lightweight, portable script for disabling OTA updates, removing pre-installed
 
 ---
 
-[Link to the release](https://github.com/Jla3apyc/TB710FU-Toolkit/releases/tag/TB710FU-bloatware-uninstaller)
-
----
-
 ## ✨ Features
 
 - 🚀 **Zero Installation:** Just unpack the utility and run the appropriate `.bat` file for your firmware region.
@@ -47,6 +43,9 @@ TB710FU_bloatware_uninstaller/
     ├── AdbWinApi.dll
     └── AdbWinUsbApi.dll
 ```
+[Link to the release](https://github.com/Jla3apyc/TB710FU-Toolkit/releases/tag/TB710FU-bloatware-uninstaller)
+
+---
 
 ## 🚀 How to Use
 
