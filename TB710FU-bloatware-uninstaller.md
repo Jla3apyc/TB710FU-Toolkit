@@ -7,6 +7,8 @@ A lightweight, portable script for disabling OTA updates, removing pre-installed
 > This tool removes system apps using `pm uninstall --user 0`. The apps are removed **only for the current user** and can be restored via ADB. However, removing certain packages may affect system stability. **Always review the list of packages before running the script.**
 
 ---
+[Link to the release](https://github.com/Jla3apyc/TB710FU-Toolkit/releases/tag/TB710FU-bloatware-uninstaller)
+---
 
 ## ✨ Features
 
