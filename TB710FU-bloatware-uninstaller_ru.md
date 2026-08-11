@@ -103,14 +103,13 @@ TB710FU_bloatware_uninstaller/
 #### 🟢 Игры и развлечения (CN)
 | Пакет | Описание |
 |-------|----------|
-| `com.cybercat.acbridge` | AC Bridge (устанавливается ADB App Control)|
 | `com.happyelements.AndroidAnimal` | Happy Elements |
 | `com.lenovo.minigamelauncher` | Мини-игры Lenovo |
 
 ---
 
 ### 🌍 Для глобальной (EN/RU) прошивки
-*Обрабатывается `TB710FU_EN_bloatware_uninstaller.bat` и `TB710FU_RU_bloatware_uninstaller.bat`.*
+*Используются `TB710FU_EN_bloatware_uninstaller.bat` и `TB710FU_RU_bloatware_uninstaller.bat`*
 
 #### 🔵 Приложения Google
 | Пакет | Описание |
