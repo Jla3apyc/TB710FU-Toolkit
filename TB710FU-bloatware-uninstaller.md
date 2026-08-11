@@ -128,13 +128,13 @@ The scripts remove the following bloatware. You can **edit the `.bat` files** to
 #### 🟠 Lenovo / ZUI Apps
 | Package | Description |
 |---------|-------------|
-| `com.lenovo.appdaily` | Lenovo Daily (news feed) |
+| `com.lenovo.appdaily` | Lenovo Find Apps |
 | `com.lenovo.ota` | Lenovo OTA Updates |
-| `com.lenovo.tbengine` | Lenovo TB Engine |
-| `com.tblenovo.center` | Lenovo Center |
+| `com.lenovo.tbengine` | Lenovo Updates |
+| `com.tblenovo.center` | Lenovo Vantage |
 | `com.tblenovo.lenovowhatsnew` | Lenovo What's New |
-| `com.zui.adobeexpressapp` | ZUI Adobe Express |
-| `com.zui.pengen` | ZUI Pengen |
+| `com.zui.adobeexpressapp` | Adobe Express |
+| `com.zui.pengen` | Creation Tools |
 
 #### 🟡 Third-Party & Regional Apps
 | Package | Description |
@@ -144,7 +144,7 @@ The scripts remove the following bloatware. You can **edit the `.bat` files** to
 | `com.adobe.lrmobile` | Adobe Lightroom |
 | `com.lemon.lvoverseas` | CapCut |
 | `com.opera.browser` / `preinstall` | Opera Browser |
-| `com.tophatch.concepts` | Concepts |
+| `com.tophatch.concepts` | Концепты |
 | `com.zhiliaoapp.musically` | TikTok |
 | `jp.co.celsys.clipstudiopaint.googleplay` | Clip Studio Paint |
 | `ru.yandex.*` / `ru.dublgis.dgismobile` | Yandex Apps & 2GIS (RU region) |
@@ -162,8 +162,7 @@ The scripts remove the following bloatware. You can **edit the `.bat` files** to
 
 | Issue | Solution |
 |-------|----------|
-| `ERROR: adb.exe not found!` | Download Platform Tools and place `adb.exe` + DLLs in the `adb` folder. |
-| Device not listed in ADB | Enable USB Debugging on the tablet. Check the built-in help (press `N` when prompted). |
+| Device not listed in ADB | Enable USB Debugging on the tablet. Check the built-in help. |
 | `unauthorized` in ADB | Unlock the tablet screen and tap "Allow USB debugging" on the prompt. |
 | App reappears after reboot | This should not happen with `--user 0`. If it does, the app may be protected by the system. |
 | `Failure [DELETE_FAILED_DEVICE_POLICY_MANAGER]` | The app is protected by device policy. Cannot be removed without root. |
