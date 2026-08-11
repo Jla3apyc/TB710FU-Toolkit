@@ -4,7 +4,7 @@
 Легковесный портативный скрипт для удаления предустановленного мусорного ПО (bloatware), отключения OTA-обновлений и исправления региональных ограничений на **Lenovo Xiaoxin Pad Pro GT / Yoga Tab 11.1 (прошивка TB710FU)**.
 
 ---
-[Link to the release](https://github.com/Jla3apyc/TB710FU-Toolkit/releases/tag/TB710FU-bloatware-uninstaller))
+[Ссылка на релиз](https://github.com/Jla3apyc/TB710FU-Toolkit/releases/tag/TB710FU-bloatware-uninstaller)
 ---
 
 > ⚠️ **ОТКАЗ ОТ ОТВЕТСТВЕННОСТИ: ВСЕ ДЕЙСТВИЯ НА СВОЙ СТРАХ И РИСК!**  
