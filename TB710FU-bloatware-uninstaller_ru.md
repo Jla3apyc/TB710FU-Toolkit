@@ -10,10 +10,6 @@
 
 ---
 
-[Ссылка на релиз](https://github.com/Jla3apyc/TB710FU-Toolkit/releases/tag/TB710FU-bloatware-uninstaller)
-
----
-
 ## ✨ Возможности
 
 - 🚀 **Без установки:** Просто распакуйте утилиту и запустите нужный `.bat` файл для вашей версии прошивки.
@@ -47,6 +43,9 @@ TB710FU_bloatware_uninstaller/
     ├── AdbWinApi.dll
     └── AdbWinUsbApi.dll
 ```
+[Ссылка на релиз](https://github.com/Jla3apyc/TB710FU-Toolkit/releases/tag/TB710FU-bloatware-uninstaller)
+
+---
 
 ## 🚀 Как использовать
 
