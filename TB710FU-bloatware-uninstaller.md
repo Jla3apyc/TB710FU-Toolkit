@@ -59,7 +59,7 @@ TB710FU_bloatware_uninstaller/
    - `TB710FU_CN_bloatware_uninstaller.bat` for Chinese firmware.
    - `TB710FU_EN_bloatware_uninstaller.bat` or `TB710FU_RU_bloatware_uninstaller.bat` for Global firmware.
 2. **Run** the selected `.bat` file.
-3. **Select language** (if prompted by the CN script) or proceed directly (EN/RU scripts).
+3. **Select language** (CN script) or proceed directly (EN/RU scripts).
 4. **Confirm** that your device appears in the ADB devices list.
 5. The script will automatically remove all packages from the list and apply necessary fixes.
 
